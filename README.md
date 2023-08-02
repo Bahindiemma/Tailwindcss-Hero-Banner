@@ -4,7 +4,8 @@ This is a simple hero banner template using Tailwind CSS. The banner showcases a
 
 ## Preview
 
-![Hero Banner Preview](preview.png)
+![Hero Banner Preview]![WhatsApp Image 2023-08-02 at 1 12 43 AM](https://github.com/Bahindiemma/Tailwindcss-Hero-Banner/assets/66938973/c92fc1ba-f31c-47cd-88be-9ed831ca62b7)
+(preview.png)
 
 ## How to Use
 
